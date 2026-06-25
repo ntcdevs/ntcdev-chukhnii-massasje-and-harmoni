@@ -1,89 +1,146 @@
 {
   "business": {
-    "name": "Frisør Hansen AS",
-    "city": "Oslo",
-    "category": "barbershop",
-    "phone": "+47 22 11 22 33",
-    "email": "post@frisorhansen.no",
-    "address": "Karl Johans gate 12, 0154 Oslo"
+    "name": "CHUKHNII MASSASJE & HARMONI",
+    "city": "Stavanger",
+    "category": "other",
+    "phone": "+4792500978",
+    "email": "chukhniimariia@gmail.com",
+    "address": "Klubbgata 12, 4013 Stavanger"
   },
   "theme": {
-    "mode": "dark",
-    "primaryColor": "#0c0c0c",
-    "accentColor": "#c9a84c",
-    "textColor": "#f5f0e8",
-    "heroColor": "#0c0c0c",
+    "mode": "light",
+    "primaryColor": "#f0f7ff",
+    "accentColor": "#2563eb",
+    "textColor": "#0f172a",
+    "heroColor": "#e8f2ff",
     "font": "playfair-inter"
   },
   "nav": {
     "variant": "transparent-scroll"
   },
-  "sections": ["hero", "trust-bar", "services", "about", "gallery", "testimonials", "contact"],
+  "sections": [
+    "hero",
+    "services",
+    "about",
+    "testimonials",
+    "contact"
+  ],
   "hero": {
-    "variant": "fullscreen",
-    "eyebrow": "Profesjonell Hårsalong · Oslo",
-    "headline": "Hansen",
-    "headlineAccent": "Frisør",
-    "subheadline": "Vi skaper mer enn bare hårklipp — vi skaper selvtillit. Opplev ekspertise og omsorg i hver behandling.",
+    "variant": "minimal",
+    "eyebrow": "Massasje & Velvære · Stavanger",
+    "headline": "Chukhnii",
+    "headlineAccent": "Massasje & Harmoni",
+    "subheadline": "Opplev dyp avslapning og indre balanse med profesjonell massasjebehandling skreddersydd for din kropp og ditt velvære i Stavanger.",
     "ctaText": "Bestill Time",
-    "ctaSecondary": "Se Tjenester"
+    "ctaSecondary": "Se Behandlinger"
   },
   "trustBar": {
     "items": [
-      { "value": "25+", "label": "År med erfaring" },
-      { "value": "5 000+", "label": "Fornøyde kunder" },
-      { "value": "100%", "label": "Fornøydhet garantert" },
-      { "value": "6", "label": "Dager åpent" }
+      {
+        "value": "10+",
+        "label": "Års erfaring"
+      },
+      {
+        "value": "1500+",
+        "label": "Fornøyde kunder"
+      },
+      {
+        "value": "100%",
+        "label": "Personlig tilpasset"
+      },
+      {
+        "value": "6",
+        "label": "Dager åpent"
+      }
     ]
   },
   "services": {
     "variant": "grid-icons",
-    "eyebrow": "Hva vi tilbyr",
-    "heading": "Våre Tjenester",
-    "cta": "Bestill Time",
+    "eyebrow": "Våre behandlinger",
+    "heading": "Tjenester for Kropp & Sjel",
+    "cta": "Bestill Time Nå",
     "items": [
-      { "name": "Herreklipp", "desc": "Klassisk og moderne klipp tilpasset din stil og ansiktsform. Inkluderer vask og føning.", "icon": "Scissors", "price": "Fra 350 kr" },
-      { "name": "Dameklipp", "desc": "Profesjonell klipp med konsultasjon, vask, klipp og styling etter dine ønsker.", "icon": "Sparkles", "price": "Fra 550 kr" },
-      { "name": "Skjeggstell", "desc": "Profesjonell forming og stell av skjegg med varmt håndkle og premium produkter.", "icon": "Star", "price": "Fra 250 kr" }
+      {
+        "name": "Klassisk Helkroppsmassasje",
+        "desc": "En dyptgående massasje som løser opp spenninger, forbedrer blodsirkulasjonen og gir dyp avslapning for hele kroppen.",
+        "icon": "Heart",
+        "price": "Fra 850 kr"
+      },
+      {
+        "name": "Aromaterapi & Harmonimassasje",
+        "desc": "En balanserende behandling med eteriske oljer som fremmer indre ro, reduserer stress og gjenoppretter kroppens naturlige harmoni.",
+        "icon": "Leaf",
+        "price": "Fra 950 kr"
+      },
+      {
+        "name": "Dypvevsmassasje",
+        "desc": "Målrettet behandling av dype muskellag som effektivt lindrer kroniske smerter, stivhet og anspent muskulatur.",
+        "icon": "Zap",
+        "price": "Fra 900 kr"
+      }
     ]
   },
   "about": {
     "eyebrow": "Om Oss",
-    "heading": "Vår Historie",
-    "body": "Siden 1998 har vi servert kunder i Oslo med stolthet og lidenskap. Vi tror på at et godt hårklipp handler om mer enn utseende — det handler om selvtillit og velvære.",
-    "stat1": { "value": "25+", "label": "År med erfaring" },
-    "stat2": { "value": "5000+", "label": "Fornøyde kunder" },
-    "stat3": { "value": "100%", "label": "Fornøydhet garantert" }
+    "heading": "Din Vei til Velvære og Harmoni",
+    "body": "Chukhnii Massasje & Harmoni ble grunnlagt med en lidenskap for helhetlig velvære og omsorg for hele mennesket. Med solid fagkunnskap og mange års erfaring tilbyr vi profesjonelle massasjebehandlinger tilpasset hver enkelt kundes behov. Vår klinikk i hjertet av Stavanger er et rolig fristed der du kan slippe hverdagens stress og gjenfinne balansen i kropp og sinn.",
+    "stat1": {
+      "value": "10+",
+      "label": "Års erfaring"
+    },
+    "stat2": {
+      "value": "1500+",
+      "label": "Behandlinger utført"
+    },
+    "stat3": {
+      "value": "100%",
+      "label": "Dedikasjon til kvalitet"
+    }
   },
   "gallery": {
-    "eyebrow": "Portefølje",
-    "heading": "Vårt Arbeid",
-    "subheading": "Hvert oppdrag utføres med stolthet og lidenskap for håndverket."
+    "eyebrow": "Vårt Studio",
+    "heading": "Et Fristed for Avslapning",
+    "subheading": "Opplev en rolig og innbydende atmosfære designet for din totale avslapning."
   },
   "testimonials": {
     "eyebrow": "Kundeanmeldelser",
-    "heading": "Hva Kundene Sier",
+    "heading": "Hva Kundene Våre Sier",
     "items": [
-      { "name": "Per Hansen", "role": "Fast kunde siden 2018", "text": "Beste frisøren i Oslo. Alltid fornøyd med resultatet og betjeningen er topp!", "rating": 5 },
-      { "name": "Lars Nilsen", "role": "Ny kunde", "text": "Fant Hansen Frisør via en venn og er veldig glad for det. Profesjonelt og hyggelig.", "rating": 5 },
-      { "name": "Ole Berg", "role": "Fast kunde siden 2020", "text": "Har prøvd mange frisører i Oslo men Hansen er klart best. Anbefales på det sterkeste.", "rating": 5 }
+      {
+        "name": "Kristine Haugland",
+        "role": "Fast kunde siden 2021",
+        "text": "Etter bare én behandling hos Chukhnii kjente jeg en enorm forskjell i kroppen. Spenningene i nakke og skuldre forsvant, og jeg følte meg som ny. Anbefales på det sterkeste!",
+        "rating": 5
+      },
+      {
+        "name": "Lars Erik Tvedt",
+        "role": "Fast kunde siden 2022",
+        "text": "Profesjonell og grundig massasje i rolige omgivelser. Mariia har en fantastisk evne til å finne og løse opp de vonde punktene. Kommer tilbake igjen og igjen.",
+        "rating": 5
+      },
+      {
+        "name": "Ingrid Solheim",
+        "role": "Ny kunde",
+        "text": "Et vakkert og avslappende studio midt i Stavanger. Behandlingen var nøyaktig det kroppen min trengte etter en stressende periode. Føler meg revitalisert og full av energi.",
+        "rating": 5
+      }
     ]
   },
   "contact": {
     "eyebrow": "Ta Kontakt",
-    "heading": "Kontakt Oss",
-    "subheading": "Vi svarer raskt og hjelper deg gjerne. Ta kontakt for time eller spørsmål."
+    "heading": "Bestill Din Behandling",
+    "subheading": "Ta kontakt for å booke din neste massasjebehandling eller for å få svar på eventuelle spørsmål — vi ser frem til å høre fra deg."
   },
   "images": {
-    "hero": "barbershop/hero-01.jpg",
-    "about": "barbershop/shop-01.jpg",
+    "hero": "other/hero-01.jpg",
+    "about": "other/shop-01.jpg",
     "gallery": [
-      "barbershop/shop-01.jpg",
-      "barbershop/shop-02.jpg",
-      "barbershop/style-01.jpg",
-      "barbershop/style-02.jpg",
-      "barbershop/hero-02.jpg",
-      "barbershop/shop-03.jpg"
+      "other/shop-01.jpg",
+      "other/shop-02.jpg",
+      "other/style-01.jpg",
+      "other/style-02.jpg",
+      "other/hero-02.jpg",
+      "other/shop-03.jpg"
     ]
   }
 }
