@@ -133,7 +133,7 @@
   },
   "images": {
     "hero": "other/hero-01.jpg",
-    "about": "other/shop-01.jpg",
+    "about": "https://ubhmaudibilphahbrtyc.supabase.co/storage/v1/object/public/lead-assets/009883ba-3bc1-430f-9edb-9e97f39ac628/about/THAI%20MASSAGE.jpg",
     "gallery": [
       "other/shop-01.jpg",
       "other/shop-02.jpg",
